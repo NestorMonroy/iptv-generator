@@ -1,6 +1,93 @@
 [
   {
     "id": "",
+    "name": "Vorterix",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714004194/ei/gkwpZuCVI_qN2_gP5tSxiAk/ip/172.183.51.64/id/AyUp637_Wp8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrn67.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_48Dt48lN26OjwkkPQxBDUNOHiSnsdg_5d5bV1GvZMs1ppIaFMRPJyf/vprv/1/playlist_type/DVR/initcwndbps/1981250/mh/1J/mm/44/mn/sn-vgqsrn67/ms/lva/mv/m/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713981872/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKrJkg-kcnCVwjZFyLwT0YKBkTZW1FjgGqZgA2_8adrzAiBaieZuQcw1Ud5mqNq9PNXkWFQ72orK5Rc-cxKcywDxyA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAMVbM6fNWQiUJxBISMDqypIT_YbXiLgz46ODGzftXOyaAiEA_eo3jsKyB0mDbLAI4h0ywPmmyjpQp_j4Ki5Ju1EOjPk%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+  },
+  {
+    "id": "",
+    "name": "America TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714004195/ei/g0wpZrfaNNSxlu8P7s-m-A8/ip/172.183.51.64/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f3mrU412wm75gBbnYF3cI4Jd_N74yunV6vIqs4D4wx-EH7BAs0omoHIP/vprv/1/playlist_type/DVR/initcwndbps/1930000/mh/sM/mm/44/mn/sn-vgqsrnzz/ms/lva/mv/m/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713981872/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIOY2sfAx2QF8eJEEOdxdYHJjQiil7ZRgmf_5CnZgRh3AiEAlqlDIDSOfCqCg8UvvWCwWVrleFHAc05q7SHLQrpB7rc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgN8van6w3QHCwKBEP0ivtH1UEr98vtttwsjjZxFitTF4CIQC7oq_NP9FZ8VEDO45D2_l09pc5ULBpNkZtUcgV7enzwg%3D%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714004197/ei/hUwpZs3wFeiz2_gPgY6Q6A8/ip/172.183.51.64/id/S_MOd40zlYU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqskn67.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8Ne9QJiKQGLKlfoxF_mHmoRpuD-ZvvueXwP--pEVYx25t-1gZFu8tb5/vprv/1/playlist_type/DVR/initcwndbps/1981250/mh/Sh/mm/44/mn/sn-vgqskn67/ms/lva/mv/m/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713981872/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgVbEv1rFmpG-q_EZyQ3SRlT6TY6ghYSw7aCmfYhnIU-ICIHGfTfSuY-5PdfpWUGjAyk4dd6eDd0kUETP-UAsZXq6y/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhANZcZJOITsVP3At_zxxbbwUg2aO6Lri_dI3fk12iUqQWAiEAlIA3Vh1TsUVRVRfFbKxClDzTSz5TC0fxLtu48hzKuUI%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
     "name": "Telemax",
     "alt_names": [
       ""
