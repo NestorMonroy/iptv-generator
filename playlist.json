@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Vorterix",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://rr2---sn-p5qlsnrr.googlevideo.com/videoplayback?expire=1716707341&ei=rYtSZp_EDoeykucP5e2w2As&ip=20.75.95.174&id=o-AKTaSo_0q-eLkbxBW8ZOg7-ZuM2mXP8epeToFd44gYHR&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=mq&mm=31%2C29&mn=sn-p5qlsnrr%2Csn-p5qs7nsk&ms=au%2Crdu&mv=m&mvi=2&pl=16&initcwndbps=4771250&bui=AWRWj2SBNwkkGx2zEnsV2uA3B14RHU9givB6k6mr_27g_-_GY68xD7g8B_1Z1ygnEPtxld8-tp8ecy5-&vprv=1&svpuc=1&mime=video%2Fmp4&ns=ws6ESquutmW9sKNDYrgkTgkQ&rqh=1&cnr=14&ratebypass=yes&dur=93.065&lmt=1692366285026168&mt=1716685244&fvip=4&c=WEB&sefc=1&txp=5532434&n=V0107GWD8Fpa6YV3L&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAPnwrgN_v3NzhQAFQC7R2YI-iDbsR6SOPTCrxxHlJS5CAiBsMM2QTL_wpi0KwXWOdjI2T2iv6pvgkIgj6Lulxkzteg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHWaYeowRQIgeONI1cHbgFX_ElhTyrCk_0SHQCyDFptXrsmhh-8kjzUCIQDvkjBbrfBuMmDsDMWrlYIAsXwYBpQ8Mo2w3kItw_y6Eg%3D%3D",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://rr4---sn-p5qs7nsk.googlevideo.com/videoplayback?expire=1716707342&ei=rotSZvf5JqWJkucP6cKosAw&ip=20.75.95.174&id=o-AB6oUqfows65PzMoClOtCrsCZenuylxXdRmWBMAkn7fI&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=mq&mm=31%2C29&mn=sn-p5qs7nsk%2Csn-p5qlsnrr&ms=au%2Crdu&mv=m&mvi=4&pl=16&initcwndbps=4771250&bui=AWRWj2Rc7-jqZ40ynuuBClOorGsF0XrAZgetQ4dESOx2rO_dfoHucDxql2fHpSz6IbZFrt7vOrMX2vXq&vprv=1&svpuc=1&mime=video%2Fmp4&ns=T7BWeKaZyF4J39kYGxhlAvoQ&rqh=1&cnr=14&ratebypass=yes&dur=93.065&lmt=1692366285026168&mt=1716685244&fvip=2&c=WEB&sefc=1&txp=5532434&n=PgvmvBQuYq1EuIY3m&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAIzuHCfKmMVS3CnjGyDSxET9iH9IluyBOUi0iVTseKoSAiA9RP14yCjBPVK-jZXFMDsbUz4U0THhdHYYKis3ZCJpxw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHWaYeowRgIhAPtjZFHhnlAl3Sq2k0f608goB5cO4t6W67i1U8SU8C2-AiEAq202uGXrHWWXg51pUt0oS6J3BkoJR6VN6kT2C0eDkeE%3D",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  }
+]
