@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "",
+    "name": "America TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720603063/ei/V_2NZp30NYu1sfIPgeGYmAI/ip/52.225.77.99/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bAXLV0_jeI0Y_c6VBm-JpS_EFh_qgIoCS2cLaiLjYq1Uwg5QjpXpZWDgYDQ8/vprv/1/playlist_type/DVR/mh/sM/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/mt/1720581069/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRAIgBOL4Wt0wx9PwkFAAHSsppnbJ8Ifuxbsm97lp8oOvG8wCIB8fZc371davxH8AhGYWtpEn35HJ48_dIUDewvtSjrzt/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgPINiLu3uiaVDJ4D9q7fZoXzuf1t9IBDG8hOO9wP3F-UCICCnSKMizE3GwameD3W5ryC0dm2SzzZyVenOfWc806nu/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720603065/ei/Wf2NZsTCDKSvsfIPl4WLOA/ip/52.225.77.99/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAfIVP3dbqVAkXZI-eQletPsC2dsM6O6wahXOKwjetSTFO20Tf6nO3MiK3TE/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-iv/ms/lva/mv/u/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1720581069/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgKC57FUkMHQW7q39APC-I67o6LsA-qbwepXYZflPR6ycCIQDAesR3BFuhW7i885BH_gD2tFkvNHF21ROZweO9ctX3Ag%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAIKAWj63dEFGWJaIg35qQmNV4GaB-j7IPqxZNPPg8-FQAiAneO7pVwQ5lJU966bmuoGkTRLdsSWpTxnJdcw4SgagFg%3D%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  }
+]
