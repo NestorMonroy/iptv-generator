@@ -1,4 +1,4 @@
-2024-08-13 15:16:26,861 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2024-08-13 15:16:27,512 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2024-08-13 15:16:27,811 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2024-08-13 15:16:28,325 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2024-08-13 18:20:58,345 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2024-08-13 18:20:58,959 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2024-08-13 18:20:59,578 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2024-08-13 18:20:59,862 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
