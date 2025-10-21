@@ -1,5 +1,5 @@
-2025-10-21 03:37:30,469 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2025-10-21 03:37:31,246 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2025-10-21 03:37:32,193 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2025-10-21 03:37:32,458 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
-2025-10-21 03:38:02,923 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Read timed out. (read timeout=15)
+2025-10-21 06:29:01,936 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-10-21 06:29:02,612 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2025-10-21 06:29:03,365 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2025-10-21 06:29:03,872 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2025-10-21 06:29:34,121 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
