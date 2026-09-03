@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "",
+    "name": "America TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1788453969/ei/8U-ZapLGCpS9kucPrOyswQ4/ip/52.150.29.101/id/VvQ42imGwq0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkBQJzTrDtfA3dtP3Q0l2aGuHfbAgHNy92hhsS1cKpqjiTKjxweswiGwaGelOoVzEBksayClV5N/spc/I-rgISg2rvqz6MkBIi0pdb31x_snaudUvniYRKL64pvc3khb7tg/vprv/1/reg/0/playlist_type/DVR/met/1788432369,/mh/7T/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/u/mvi/5/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52135441/mt/1788431679/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAL3ZSB0Ag6L_1FQl6ygVII2uua__sAoa6U5-gXeIcUmpAiEAqCMU9YXhJ9DrztyM78MDgvIS_npOz-Gr7IYiuGO4rg8%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJ6cPAZUewVFB6eSsmEZDcwHDm9u-aYkx3EokrcDnFocAiEAsIbHi5uW5T24GI2Xkr0o_lsVnI8ZQrKTzyIcoh9tfTI%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1788453970/ei/8k-Zav-nBLPgkucPzIbb6A4/ip/52.150.29.101/id/rFZHOHl-L8A.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-p5qlsn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAkRsxFuYdfnqRLdseVzr3PLuk6FVptlUIIgpAzFTfCRh6NWr411BzI3f6A6SuAS5QatoXLYFcrZ/spc/I-rgIbY7l5Ynrlqfj6D1N9hwqbNDOO_5RJzx7rbEqnfTwcJjPOY/vprv/1/reg/0/playlist_type/DVR/met/1788432370,/mh/I2/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/4/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52135441/mt/1788431679/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhANxQKD752IOBAwxvTpi3hRQa0y_Qcg16giyIPRBfFWPZAiEAzLdOovu4TMZ9y6t4OpR47cJ9DGnYOp4a6OR7UoVvSzU%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALmb-rikKmX_LMNlwKLJ1h513p4ZlE3lKeubu6NfAUPHAiEAu_caW2zvjSCmWvz49AcEaQ4lFZG3nwIWw6lRAlyz6tQ%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  }
+]
