@@ -1,5 +1,5 @@
-2026-11-28 03:06:21,195 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2026-11-28 03:06:30,527 - error - URL Error https://www.youtube.com/@americaenvivo/live: Unable to open URL: https://www.youtube.com/youtubei/v1/player (403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8)
-2026-11-28 03:06:38,125 - error - URL Error https://www.youtube.com/@LofiGirl/live: Unable to open URL: https://www.youtube.com/youtubei/v1/player (403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8)
-2026-11-28 03:06:38,308 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
-2026-11-28 03:07:08,461 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='live-edge01.telecentro.net.ar', port=443) at 0x7c950c509f90>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
+2026-11-28 15:08:24,466 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2026-11-28 15:08:25,036 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2026-11-28 15:08:25,704 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-11-28 15:08:25,967 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2026-11-28 15:08:56,422 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='live-edge01.telecentro.net.ar', port=443) at 0x7da50c3ddf90>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
